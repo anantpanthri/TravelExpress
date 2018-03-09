@@ -1,2 +1,5 @@
 # TravelExpress
 Travel Express is a travel base java web application that allows a registered user to book hotels and convenient mode of transportation towards his/her destination.  A user can enter any USA county or state the application will display all the hotels with their prices, allows a user to book their choice of hotel,  propose a convenient travel mode (flight/train/car) and prepares his/her itenary. Technology and architecture:Uses Java Servlet with oracle 11g and JDBC connectivity. The UI changes after every 30 seconds, uses client-side validation and Jquery. Factory design pattern has been implemented with a 3 layered architecture the UI(handles the user interface), the BO(handles the business rules) and the DAO(handles the database connectivity) to provide a hassle free good customer/user experience. Designed the architecture of database and defined Entity relationship using concepts like ER modelling . The layering and the architecture help in debugging and simulates a real live web travel application.
+
+
+![alt text](https://raw.githubusercontent.com/anantpanthri/TravelExpress/master/TravelExpress/WebContent/images/11.jpg)
